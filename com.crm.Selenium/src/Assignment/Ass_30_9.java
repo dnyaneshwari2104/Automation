@@ -1,7 +1,8 @@
+package Assignment;
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Assignment1 {
+public class Ass_30_9 {
 
 	public static void main(String[] args) throws InterruptedException
 	{

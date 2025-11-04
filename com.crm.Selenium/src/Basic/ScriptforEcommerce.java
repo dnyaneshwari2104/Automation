@@ -15,5 +15,6 @@ public class ScriptforEcommerce {
 		driver.get("https://www.meesho.com/");
 		driver.get("https://www.myntra.com/");
 		driver.get("https://www.ajio.com/?utm_source=icubes&utm_medium=affiliate&utm_campaign=465&utm_term=&clickid=68d7b2fbec50ed00011586e2&pid=12&offer_id=2&attribution_window=1D&return_cancellation_window=45D");
+		driver.close();
 	}
 }

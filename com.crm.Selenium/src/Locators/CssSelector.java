@@ -15,9 +15,7 @@ public class CssSelector {
 //		Thread.sleep(1000);
 //		driver.findElement(By.cssSelector("input[type='submit']")).click();
 		//                                 Syntax=[AN='AV']
-		driver.findElement(By.cssSelector("#small-searchterms")).sendKeys("Jwellery");
-		driver.findElement(By.cssSelector(".button-1.search-box-button")).click();
-		Thread.sleep(3000);
+		driver.findElement(By.cssSelector("#small-searchterms")).sendKeys("Jweller");
 		driver.close();
 		
 	}
